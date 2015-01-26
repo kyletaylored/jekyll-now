@@ -1,17 +1,29 @@
 ---
 layout: default
 ---
+<div class="section-content">
+	<article class="post">
+		<div class="post-title">
+			<h2>{{ page.title }}</h2>
+			{% if page.subtitle %}<h4 class="subtitle">{{ page.subtitle}}</h4>{% endif %}
+		</div>
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+		{% if site.addthis %}
+		<div class="social-sharing">
+			<div data-url="{{ site.baseurl }}{{ page.url }}" data-title="{{ page.title }}" class="addthis_sharing_toolbox">
+				<!-- Go to www.addthis.com/dashboard to customize your tools -->
+				<div class="addthis_sharing_toolbox"></div>
+			</div>
+			{% endif %}
 
-  <div class="entry">
-    {{ content }}
-  </div>
+			<div class="entry">
+				{{ content }}
+			</div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+			<div class="date">
+				{{ page.date | date: "%B %e, %Y" }}
+			</div>
 
-  {% include disqus.html disqus_identifier=page.disqus_identifier %}
-</article>
+			{% include disqus.html disqus_identifier=page.disqus_identifier %}
+		</article>
+	</div>

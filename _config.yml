@@ -16,7 +16,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+social:
   dribbble:
   email: kyletaylored@gmail.com
   facebook: kyletaylored
@@ -31,6 +31,9 @@ footer-links:
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: kyletaylored
+
+# Addthis publisher ID. This will enable social sharing on posts.
+addthis: ra-5292fe2f650b189b
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-36441409-1
