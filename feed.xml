@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>wwwkyletayloredcom</title>
-    <link href="http://kyletaylored.com/feed.xml" rel="self" />
-    <link href="http://kyletaylored.com" />
+    <link href="http://www.kyletaylored.com/feed.xml" rel="self" />
+    <link href="http://www.kyletaylored.com" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Kyle Taylor</name>
     </author>
-    <id>http://kyletaylored.com</id>
+    <id>http://www.kyletaylored.com</id>
 
 </feed>
