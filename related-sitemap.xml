@@ -7,22 +7,22 @@
     <loc>https://www.related.com/residential</loc>
   </url>
   <url>
-    <loc>https://www.related.com/residential/luxury-condominiums</loc>
-  </url>
-  <url>
     <loc>https://www.related.com/retail</loc>
   </url>
   <url>
     <loc>https://www.related.com/office</loc>
   </url>
   <url>
-    <loc>https://www.related.com/city-centers</loc>
+    <loc>https://www.related.com/residential/luxury-condominiums</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/about-us</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/hospitality</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/businesses</loc>
@@ -40,6 +40,9 @@
     <loc>https://www.related.com/our-company/history</loc>
   </url>
   <url>
+    <loc>https://www.related.com/city-centers</loc>
+  </url>
+  <url>
     <loc>https://www.related.com/our-company/careers</loc>
   </url>
   <url>
@@ -52,10 +55,10 @@
     <loc>https://www.related.com/our-brands</loc>
   </url>
   <url>
-    <loc>https://www.related.com/news-articles</loc>
+    <loc>https://www.related.com/press-releases</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases</loc>
+    <loc>https://www.related.com/news-articles</loc>
   </url>
   <url>
     <loc>https://www.related.com/press-kit</loc>
@@ -64,7 +67,13 @@
     <loc>https://www.related.com/search</loc>
   </url>
   <url>
-    <loc>https://www.related.com/related_property_explorer/521</loc>
+    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/Fast-Company-fund-quiet_20190313.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/WSJ-Equinox-Hotels-20190327.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/related_property_explorer/551</loc>
   </url>
   <url>
     <loc>https://www.related.com/related_property_explorer/1396</loc>
@@ -73,16 +82,19 @@
     <loc>https://www.related.com/related_property_explorer/916</loc>
   </url>
   <url>
-    <loc>https://www.related.com/our-company/properties/fifteen-hudson-yards</loc>
+    <loc>https://www.related.com/our-company/properties/35-hudson-yards</loc>
   </url>
   <url>
-    <loc>https://www.related.com/hospitality</loc>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/The-Real-Deal-360-Rosemary-6-4-2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/Newsday-Hudson-Yards-all-ages-5-30-2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/Senior-Housing-News-1001VanNess-5-17-2019.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/terms-use</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Michigan-Ave-OneBennettPark.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/privacy-notice</loc>
@@ -91,34 +103,16 @@
     <loc>https://www.related.com/our-company/businesses/affordable-and-workforce-housing</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/NYP-HY-sight-to-behold-20190305.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/Haute-Living-The-Avery-5-29-2019.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Bloomberg-Related-Atria-Senior-Housing.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/BrickUnderground-MiMA-coworking-5-21-2019.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/LA-Times-Argyle-House.pdf</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Mansion-Global-Zaha-Penthouse.pdf</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/2019-02/acquiadam-assets/SF%20Chronicle%20Online%201.30.19.pdf</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/WWD-Cartier-HY.pdf</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Elite-Traveler-15-HY-Skytop.pdf</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/2019-02/acquiadam-assets/New-York-Mag-Stephen-Ross.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/Palm-Beach-Illustrated-Rosemary-Square-5-13-2019.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/properties/one-columbus-circle</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/The-Real-Deal-CityPlace-plaza.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/properties/85-tenth-avenue</loc>
@@ -130,37 +124,46 @@
     <loc>https://www.related.com/our-company/properties/kenmore-square-redevelopment</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Elle-Decor-Ken-Downing-15-Hudson-Yards-model.pdf</loc>
-  </url>
-  <url>
     <loc>https://www.related.com/our-company/properties/converse-world-headquarters</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/Commercial-Observer-bronx-terminal-market-food-bazaar.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/Commercial-Observer-HY-office-20190319.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/boston-business-journal-puretech-20180911.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Michigan-Ave-OneBennettPark.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Forbes-One-Bennett-Park-artwork.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Mansion-Global-Zaha-Penthouse.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/BloombergBusiness-KKRtoBuyatHY.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/340-park</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/CNN-most-anticipated-buildings-30HY.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/840-north-lake-shore-drive</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/The-Real-Deal-Curt-Bailey-The-78.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/Elle-Women-of-Hudson-Yards-20190405.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/sites/default/files/2019-02/acquiadam-assets/Boston%20Business%20Journal%202.21.19.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/our-company/businesses/fund-management</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/WWD-Equinox-Hotel-05-6-2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/Skift-Equinox-Hotel-5-14-2019.pdf</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/sites/default/files/2019-05/acquiadam-assets/WSJ-AirBnB-Avery450.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/businesses/real-estate-development</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/businesses/operating-portfolio-management</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/our-company/businesses/fund-management</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/businesses/international-activities</loc>
@@ -176,9 +179,6 @@
   </url>
   <url>
     <loc>https://www.related.com/our-company/leadership/bruce-beal-jr</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Curbed-Hudson-Yards.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/leadership/kenneth-p-wong</loc>
@@ -208,16 +208,10 @@
     <loc>https://www.related.com/our-company/leadership/john-jacobsson</loc>
   </url>
   <url>
-    <loc>https://www.related.com/our-company/leadership/fred-knapp</loc>
-  </url>
-  <url>
     <loc>https://www.related.com/our-company/leadership/brian-mayer</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/leadership/jennifer-mccool</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Real-Deal-top-10.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/leadership/justin-e-metz</loc>
@@ -229,10 +223,13 @@
     <loc>https://www.related.com/our-company/leadership/kimberly-sherman-stamler</loc>
   </url>
   <url>
-    <loc>https://www.related.com/our-company/leadership/philppe-b-visser</loc>
+    <loc>https://www.related.com/our-company/leadership/philippe-b-visser</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/leadership/ronald-w-wackrow</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/our-company/leadership/bruce-l-warwick</loc>
   </url>
   <url>
     <loc>https://www.related.com/our-company/leadership/william-witte</loc>
@@ -241,85 +238,91 @@
     <loc>https://www.related.com/our-company/leadership/david-k-zussman</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Business-Insider-Hudson-Yards.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/avery-450</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Fast-company-Starry-Internet.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/one-bennett-park</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/WSJ-NeimanMarcus.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/lovejoy-wharf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Bloomberg-food-at-Hudson-Yards.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/avery</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/Curbed-High-Line-Nine.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/century</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/Elle-Women-of-Hudson-Yards-20190405.pdf</loc>
+    <loc>https://www.related.com/our-company/properties/one-hill-south</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/our-company/properties/argyle-house</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/our-company/properties/easton</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/our-company/properties/78</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/our-company/properties/grand</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/our-company/properties/hudson-yards</loc>
   </url>
   <url>
     <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/Palm-Beach-Post-Rosemary-Square-20190408.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/Boston%20Magazine%202.20.19.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/WSJ-dining-at-HY-20190225.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/WSJ-Equinox-Hotels-20190327.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/wallpaper-the-avery-6-19-2019.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Forbes-pet-friendly-apartments.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-07/acquiadam-assets/PRNewswire-Quiet-Logistics.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/Bisnow%203.19.19.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-07/acquiadam-assets/Travel+Leisure-Equinox-Hotels.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-03/acquiadam-assets/Fast-Company-fund-quiet_20190313.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-07/acquiadam-assets/The-Telegraph-Marc-Vlessing-Pocket.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/CBSNews-Vessel-20190317.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/British%20Airways-NewYork-Hotlist-5-1-2019.pdf</loc>
   </url>
   <url>
-    <loc>https://www.related.com/sites/default/files/2019-04/acquiadam-assets/Commercial-Observer-HY-office-20190319.pdf</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/designboom-35-hudson-yards.pdf</loc>
+    <loc>https://www.related.com/sites/default/files/2019-06/acquiadam-assets/CBC-Shops-at-Hudson-Yards-5-19-2019.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/press-releases/2019-03-15/hudson-yards-officially-opens</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-04-08/related-companies-announces-rosemary-square</loc>
+    <loc>https://www.related.com/press-releases/2019-07-18/lewis-longman-walker-moving-west-palm-beach-office-related-companies-360</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-03-27/equinox-launches-equinox-hotels-35-hudson-yards-defines-new-genre-luxury</loc>
+    <loc>https://www.related.com/press-releases/2019-07-17/quiet-logistics-eyes-global-expansion-opening-new-robot-enabled</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-03-15/hudson-yards-officially-opens-0</loc>
+    <loc>https://www.related.com/press-releases/2019-07-15/35-hudson-yards-unveils-residential-amenities-designed-tony-ingrao</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-03-13/related-companies-announces-strategic-partnership-greenfield-partners</loc>
+    <loc>https://www.related.com/press-releases/2019-07-09/whitney-hotel-debuts-bostons-historic-beacon-hill</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-03-13/hudson-yards-powers-new-neighborhood-first-its-kind-hiring-initiative</loc>
+    <loc>https://www.related.com/press-releases/2019-07-01/related-companies-completes-900-ton-concrete-foundation-grands</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-03-12/shops-restaurants-hudson-yards-open-march-15-noon</loc>
+    <loc>https://www.related.com/press-releases/2019-06-27/related-beal-introduces-quinn-bostons-historic-south-end</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-03-12/hudson-yards-announces-inaugural-ticket-release-new-yorks-climbable</loc>
+    <loc>https://www.related.com/press-releases/2019-06-21/related-companies-and-hudson-yards-partner-nyc-pride-and-names-project</loc>
   </url>
   <url>
-    <loc>https://www.related.com/press-releases/2019-03-04/hudson-yards-unveils-neighborhoods-highest-residences-boutique-offering</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/press-releases/2009-02-05/time-warner-center-celebrates-fifth-anniversary-social-and-cultural</loc>
+    <loc>https://www.related.com/press-releases/2019-06-14/related-opens-avery-san-franciscos-most-exceptional-new-address</loc>
   </url>
   <url>
     <loc>https://www.related.com/press-releases/2009-04-23/mayor-bloomberg-joins-home-depot-and-related-companies-open-first-store</loc>
-  </url>
-  <url>
-    <loc>https://www.related.com/sites/default/files/acquiadam-assets/Commercial-Observer-The-Grand.pdf</loc>
   </url>
   <url>
     <loc>https://www.related.com/press-releases/2009-03-01/cosmopolitan-convenience-meets-small-town-charm-riverwalk</loc>
@@ -335,5 +338,11 @@
   </url>
   <url>
     <loc>https://www.related.com/press-releases/2008-01-28/world-market-center-names-furniture-industry-leader-bob-maricich</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/press-releases/2007-10-19/related-companies-joins-inc-magazines-list-5000-fastest-growing-private</loc>
+  </url>
+  <url>
+    <loc>https://www.related.com/press-releases/2007-08-17/related-companies-acquire-virgin-entertainment-group-virgin-megastores</loc>
   </url>
 </urlset>
