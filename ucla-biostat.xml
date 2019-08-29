@@ -1,0 +1,2337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.biostat.ucla.edu/</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/about-us</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/faculty</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/prospective-students</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/incoming-students</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/current-students</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/courses</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/research</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/events</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/links</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/consulting</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/job-announcements</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/jobs</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/library</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/alumni-directory</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/office-administration</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/dr-sudipto-banerjee</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/student-profiles</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/christopher-german-biostatistics-doctoral-student-recipient-burroughs-wellcome-fund-inter</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/UCLA_Biostatistics_Overview_0.pdf</loc>
+  <lastmod>2019-02-19T18:14:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/UCLA_Biostatistics_Overview.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/why-biostat</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/why-ucla-biostat</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/cost-aid</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/statistical-genetics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/admissions-faq</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/student-employment</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/list-current-students</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/MS%20Graduation%20PowerPoint%20Presentation_0.pdf</loc>
+  <lastmod>2019-07-26T23:18:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/PHD%20Graduation%20PowerPoint%20Presentation_0.pdf</loc>
+  <lastmod>2019-07-26T23:11:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/MPH-InternshipPresentation6-6-19FINAL.pdf</loc>
+  <lastmod>2019-07-26T23:19:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/student-handbooks</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/MastersComprehensiveExamFormulaPage.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/useful-links</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/100a-waiver</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2019-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2018-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2017-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2016-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2015-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2014-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2013-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2012-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2011-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2010-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2009-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2008-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2007-seminars</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/justin-williams-phd-student-won-outstanding-oral-presentation-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/emilie-campos-selected-one-winners-student-poster-award-2019-statistical-methods-imaging</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/catherine-crespi-selected-fellow-american-statistical-association-asa</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/professor-sudipto-banerjee-has-been-awarded-2019-george-w-snedecor-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/thomas-r-belin-lowell-reed-lectureship</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/kate-crespi-appointed-patient-centered-outcome-research-institute-member-advisory-panel</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/dr-kate-crespi-new-member-niss-board-trustees</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/professors-sudipto-banerjee-and-marc-suchard-elected-fellowship-international-society</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/students-received-awards</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=2</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=3</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=4</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=5</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=6</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=7</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=8</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=10</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/biostatistics-department-faculty-retreat</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostat-seminar-model-based-imputation-procedure-regression-models-interactions</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostat-seminar-measurement-inequality-early-life-mortality-developing-country</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/2pm-315pm-statbiostat-joint-seminar-how-small-are-our-big-data-turning-2016-surprise-2020</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostat-seminar-providing-actionable-information-advance-public-health-age</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostat-seminar-simple-weighting-approach-instrumental-variable-estimation</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/200pm-300pm-joint-statbiostat-seminar-bayesian-inference-nonparanormal-graphical-models</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostat-seminar-new-statistical-methods-drawing-inference-based-high-dimensional</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/1030am-1130am-biostat-seminar-bayesian-change-point-detection-signal-processing-and</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostat-seminar-semi-markov-modeling-disease-progression-back-transitions-using</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/fsph-admitted-student-day</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostatistics-seminar-statistics-ai-industry-how-work-data-deep-learning</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostatistics-seminar-bayesian-regularized-transfer-learning-population-level</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/1230pm-2pm-biostatistics-monthly-pizza-day</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/330pm-430pm-biostatistics-seminar-scalable-bayesian-sparse-regression-accelerated-posterior</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/events?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/biomedical</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/statistics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/journal-listing</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/mathematics-applied-math-computation</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/optimization-or</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/biology-chemistry</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/journals-libraries-articles</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/other-uc-departments-divisions</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/uc-resources</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/miscellaneous</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/node/107</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/massey</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/photo-gallery</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/library-donors</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/grads-63-72</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/grads-73-82</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/grads-83-92</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/grads-93-97</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/grads-98-02</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/grads-03-06</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/grads-07-10</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/robs-intro-to-biostat.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/i-why-ucla-biostatistics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ii-why-los-angeles-ca</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/iii-employers-ucla-biostatistics-graduates</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/ASE_Application_101810.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/PTE_Application_101810.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.02-03.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.03-04.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.04-05.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.05-06.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.06-07.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.07-08.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.08-09.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.09-10.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.10-11.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.11-12.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.12-13.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.13-14.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.14-15.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.15-16.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.16-17.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/handbooks/Handbook.17-18.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/Biostats%20Handbook%202018-2019.pdf</loc>
+  <lastmod>2018-10-03T15:31:29+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/Hoffman2.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/formulas.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Enders-5-22-19.pdf</loc>
+  <lastmod>2019-07-12T01:24:31+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Ramos-5-15-19.pdf</loc>
+  <lastmod>2019-07-12T01:23:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Belin-5-8-19.pdf</loc>
+  <lastmod>2019-07-12T01:22:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Samant-5-1-19.pdf</loc>
+  <lastmod>2019-07-12T01:21:49+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Michael-4-10-19.pdf</loc>
+  <lastmod>2019-07-12T01:21:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Fei-3-20-19.pdf</loc>
+  <lastmod>2019-07-12T01:19:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Fei-3-20-19_0.pdf</loc>
+  <lastmod>2019-07-12T01:20:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Aralis.Hilary-3-13-2019.pdf</loc>
+  <lastmod>2019-07-12T01:18:26+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Li.Qian-2-27-19.pdf</loc>
+  <lastmod>2019-07-12T01:17:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Datta.Abhirup-2-20-19.pdf</loc>
+  <lastmod>2019-07-12T01:16:24+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Nishimura-1-30-19.pdf</loc>
+  <lastmod>2019-07-12T01:15:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Rossel-1-16-19.pdf</loc>
+  <lastmod>2019-07-12T01:11:46+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Gramacy11-15-18.pdf</loc>
+  <lastmod>2018-11-13T23:13:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Dunson11-9-18.pdf</loc>
+  <lastmod>2018-10-30T22:33:34+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Jamshidian10-24-18.pdf</loc>
+  <lastmod>2018-10-30T22:31:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/Elashoff.10-17-18.pdf</loc>
+  <lastmod>2018-10-17T21:54:22+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20180509.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20180502.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20180425.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20180131.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20171129.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20171115.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20171101.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20171025_0.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20171018.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20171011.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/2017-06-09-statement.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170524.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170517.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170508.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170503.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170426.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170412.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170405.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170308.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2017-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20161130.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20161118.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20161116.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20161109.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20161102.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20161019.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20161012.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160928.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150805_0.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150805.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160525.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160518.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160511.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160427.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160413.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2016-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20151202.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20151118.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20151116.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20151104.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20151028.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20151023.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20151014.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150527.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150513.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150506.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150429.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150422.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150415.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150408.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150302.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2015-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141210.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141203.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141119.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141112.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141105.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141029.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141024.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141022.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141014.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20141008.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140528.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140521.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140514.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140416.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140409.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2014-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20131120.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20131113.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20131106.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20131030.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20131023.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20131009.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130529.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130522.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130515.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130501.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130424.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130417.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130410.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130403.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130306.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2013-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121204.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121128.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121114.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121107.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121031.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121024.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121017.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121010.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20121003.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120530.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120516.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120430.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120425.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120423.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120416.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2012-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20111130.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20111116.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20111109.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20111102.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20111019.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20111012.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20111005.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110926.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110601.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110511.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110504.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110420.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110413.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110406.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2011-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20101117.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20101110.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20101103.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20101020.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20101013.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20101006.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100929.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100603.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100519.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100512.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100428.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100421.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100414.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100409.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2010-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2008-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/2007-seminars?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ucla-fielding-school-public-health-researchers-determine-risks-based-age-gender-and</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/phd-students-received-awards</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/professor-ron-brookmeyer-and%C2%A0-professor-roger-detels-gave-workshop-evaluation-hivaids</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/bioscience-research-initiative-honors-uclas-steve-horvath-his-work-epigenetic-clock</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/eric-kawaguchi-selected-one-winners-studentpost-doc-poster-award-2017-lifetime-data-science</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/research-dr-steve-horvath-epigenetic-clock-featured-numerous-news-articles</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/sudipto-banerjee-professor-and-chair-department-biostatistics-and-his-coauthors-are</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/phd-student-juhyun-kim-recipient-genomic-analysis-and-interpretation-training-program</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/dr-janet-sinsheimer-has-been-selected-recipient-2017-l-adrience-cupples-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/dr-steve-horvath-has-developed-highly-accurate-molecular-biomarker-aging-known-epigenetic</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/zymo-research-receives-exclusive-licensing-agreement-dr-steve-horvaths-epigenetic-aging</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/professor-rob-weiss-will-be-giving-2016-seymour-geisser-distinguished-lecture-university</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-dr-gang-li-whose-article-general-joint-model-longitudinal-measurements-and</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-ucla-biostatistics-graduate-student-aaron-scheffler-winnning-most</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-ron-brookmeyer-receiving-2016-karl-e-peace-award-outstanding-statistical</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-marc-suchard-being-elected-fellowship-institute-mathematical-statistics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/masters-biostatistics-rated-1-job-fortune-magazine</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/priscilla-yen-phd-2016-candidate-was-selected-winner-5000-grand-prize-courtesy-breslow</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/two-nih-projects-awarded-dr-grace-hyun-kim</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/dr-senturk-has-been-awarded-r01-grant-nih-niddk</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/robin-jeffries-ucla-biostatistics-alumna-and-new-faculty-csu-chico-featured-university</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/drs-damla-senturk-donatello-telesca-catherine-sugar-have-been-awarded-16m-four-year-r01</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/drs-catherine-sugar-damla-senturk-are-participating-new-nationwide-multi-center-study</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-sheng-wu-being-awarded-distinguished-paper-award-2015-wnar-conference</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-dr-thomas-belin-and-dr-ron-brookmeyer-receiving-awards-annual-banquet-ucla</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-lauren-harrell-being-selected-deans-outstanding-student-award-biostatistics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-damla-senturk-being-elected-serve-treasurer-secretary-asa-section</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/sudipto-banerjee-has-been-elected-chair-elect-asas-section-bayesian-statistical-science-2016</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-sudipto-banerjee-being-elected-fellow-institute-mathematical-statistics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-sudipto-banerjee-being-awarded-distinguished-achievement-medal-american</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/catherine-sugar-elected-2015-fellow-asa-and-president-southern-california-chapter-asa</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ron-brookmeyer-receive-2015-nathan-mantel-lifetime-achievement-award-asas-section-statistics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-christina-ramirez-receiving-invitation-oral-presentation-international-aids</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/congratulations-heidi-fischer-receiving-jsm-2015-sbss-student-travel-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/dr-stefanie-biedermann-school-mathematical-sciences-univ-southampton-visiting-dr-weng-kee</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/job-opening-open-rank-professor-biostatistics-ucla</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ron-brookmeyer-appointed-statistics-board-reviewing-editors-science-magazine</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ron-brookmeyer-2014-norman-breslow-distinguished-lecturer-university-washington</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/department-biostatistics-welcomes-new-chair</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/donatello-telesca-wins-2014-mitchell-prize-isba</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/jacob-konikoff-wins-wnar-student-paper-competition</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-elected-chair-faculty-executive-committee</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/qiaolin-chen-wins-honorable-mention-student-paper-competition</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-receives-r01-nih-gms-grant-funding</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/kate-crespi-elected-wnar-president</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/marc-suchard-receives-2013-copss-presidents-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/don-guthrie-receives-2013-harvard-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/asya-spears-receives-predoctoral-fellow-position</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/robert-weiss-elected-chair-sbss</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/shemra-rizzo-wins-statistical-significance-poster-competition</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news?page=9</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-co-chair-src</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ucla-biostat-hosts-2013-wnar-conference</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/donatello-telesca-christina-ramirez-attend-amfars-generationcure-party</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/janet-sinsheimer-elected-fellow-asa</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/christina-ramirezs-work-mentioned-science-magazine-article</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/damla-senturk-elected-be-wnar-regional-committee-representative</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ron-brookmeyer-interviewed-bbc-world-service</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/robert-weiss-named-biostatistician-grant</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/mirjam-moerbeek-visiting-utrecht-univ-netherlands</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/anton-westveld-visiting-univ-canberra-australia</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-gives-talk-usc</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-appointed-associate-editor</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-selected-fellow-aaas</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-going-guangzhou-univ-and-national-cheng-kung-univ-visiting-scholar</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ron-brookmeyer-gives-talk-nih-symposium</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-teaches-course-amgen</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/donatello-telesca-appointed-webmaster-sbss</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/donatello-telesca-receives-ucla-hellman-fellows-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-invited-colloquium-loyola-univ</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/marc-suchard-elected-asa</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-going-national-taiwan-univ-visiting-scholar</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/marc-suchard-elected-asa-0</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-going-national-univ-singapore-visiting-scholar</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-keynote-speaker-symposium-ohio-state</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-going-stockholm-univ-visiting-scholar</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-organizes-and-chairs-workshop-singapore</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-invited-newton-institute-mathematical-sciences</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-going-guangzhou-univ-visiting-scholar</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-invited-speaker-colloquium-amsterdam</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-elected-fellow-ims</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/robin-jeffries-featured-issue-ucla-sph-magazine</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/effects-aca-pharmaceuticals-used-treat-diabetes</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/mph-emph-alumni-mixer</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/state-regulation-opioids-solution</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/introduction-economics-pharmaceutical-industry</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=2</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=3</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=4</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=5</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=6</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=7</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=8</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=10</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=1</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=2</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=3</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=4</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=5</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=6</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=7</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=8</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=10</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170222.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170208.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170201.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170118.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20170111.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160302.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160217.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160210.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160203.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160201.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160127.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20160113.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150225.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150223.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150128.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20150114.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140402.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140305.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140226.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140219.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140212.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140207.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140205.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140129.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140124.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140122.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20140115.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130227.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130220.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130213.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130206.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130130.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130123.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20130116.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120413.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120411.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120409.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120307.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120305.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120229.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120222.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120215.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120208.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120201.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120123.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20120118.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110330.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110302.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110216.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110202.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110126.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110119.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110112.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20110105.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100331.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100303.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100224.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100217.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100210.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100203.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100127.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100125.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100113.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/seminar-flyers/20100106.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/Asya_Spears_2013_Terms_Predoctoral.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/marc-suchard-wins-mitchell-prize</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/marc-suchard-wins-raymond-j-carroll-young-investigator-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/ron-brookmeyer-awarded-presidents-citation</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/weng-kee-wong-appointed-associate-editor-journal-data-science</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/robert-weiss-chair-elect-section-bayesian-statistics</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/gang-li-elected-fellow-asa</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/catherine-sugar-awarded-deans-distinguished-teaching-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/five-grad-students-receive-sph-awards</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/adam-king-receives-chancellors-prize-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/content/jonathan-britt-brian-calimlim-receives-ta-year-award</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/amfAR_flyer.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/Christina_Science_March2013.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/Weng_Kee_Wong_AAAS.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/Recipients_201213Hellman.pdf</loc>
+  <lastmod>2018-07-15T17:02:23+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/sites/default/files/Recipients_2012ASA.pdf</loc>
+  <lastmod>2018-07-15T17:02:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/prospective-students?page=9</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://www.biostat.ucla.edu/news/faculty?page=9</loc>
+  <lastmod>2019-08-29T22:04:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
